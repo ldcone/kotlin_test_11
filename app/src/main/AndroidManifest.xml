@@ -11,6 +11,7 @@
         android:theme="@style/Theme.Kotlin_test_11">
         <activity
             android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
